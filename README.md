@@ -5,7 +5,8 @@
 Ye project dikhata hai ki kaise **AI agents** aur **MCP (Model Context Protocol) servers** mil kar ek powerful customer support system banate hain. Simple words mein - jab customer koi problem batata hai, AI agent automatically sahi tools use kar ke uski help karta hai.
 
 ## Screenshot se samjhiye
-![Uploading image.png…]()
+<img width="985" height="587" alt="image" src="https://github.com/user-attachments/assets/a5c65577-0ee3-417e-b82c-8c09bed03c8b" />
+
 
 
 
